@@ -6,7 +6,7 @@
 
 ### about
 
-hi there! I'm <ins>Fuon</ins>, an 18-year-old developer from China. In Chinese online communities, I go by <ins>Ling</ins> Yu. I specialize in front-end web development and UI design, while currently learning Rust and working toward becoming a full-stack developer.
+hi there! I'm <ins>Fuon</ins>, an 18-year-old developer from China. In Chinese online communities, I go by <ins>Ling Yu</ins>. I specialize in front-end web development and UI design, while currently learning Rust and working toward becoming a full-stack developer.
 
 well, that's all for my personal passion, like "want to build the most user-friendly applications", "want to realize some pursuit in the field of some products" or "try to deliver the meaningful of software development beyond the fast-pac nature".
 
